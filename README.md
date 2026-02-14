@@ -1,7 +1,7 @@
 # Student Dev Tutorials
 
 A collection of hands-on tutorials for freshman/junior developers.
-Each tutorial is self-contained: read the README, clone the starter, build the thing.
+Each tutorial is self-contained: read the README, build the thing.
 
 ---
 
@@ -19,7 +19,7 @@ Each tutorial is self-contained: read the README, clone the starter, build the t
 
 1. Pick a tutorial from the table above
 2. Read its `README.md` — it covers setup, steps, and deliverables
-3. Use the `starter/` folder if one exists (saves you the boilerplate)
+3. If a `starter/` folder exists, clone it to save setup time
 4. Submit per the tutorial's instructions
 
 ---
