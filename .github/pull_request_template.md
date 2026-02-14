@@ -12,5 +12,5 @@
 
 - [ ] Tutorial has a `README.md` with: objective, steps, deliverables
 - [ ] All code samples run without errors
-- [ ] No solution code committed to main branch (use `solution` branch or private repo)
+- [ ] If graded work: solution is on a separate branch or private repo (not required for open tutorials)
 - [ ] Tutorial added to root `README.md` table
