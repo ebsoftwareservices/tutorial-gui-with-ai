@@ -1,4 +1,4 @@
-# Student Dev Tutorials
+# GUI Over API with AI — Tutorials
 
 A collection of hands-on tutorials for freshman/junior developers.
 Each tutorial is self-contained: read the README, build the thing.
