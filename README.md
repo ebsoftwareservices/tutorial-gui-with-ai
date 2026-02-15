@@ -19,15 +19,13 @@ Each tutorial is self-contained: read the README, build the thing.
 
 1. Pick a tutorial from the table above
 2. Read its `README.md` — it covers setup, steps, and deliverables
-3. If a `starter/` folder exists, clone it to save setup time
-4. Submit per the tutorial's instructions
+3. Submit per the tutorial's instructions
 
 ---
 
 ## For Instructors
 
 - Each tutorial lives in `tutorials/NN-short-name/`
-- `starter/` = scaffold given to students
 - `solution/` = reference answer (keep on a private branch or separate private repo if this is graded work)
 - Tag releases as `vX.Y-cohort` (e.g. `v1.0-2026-freshman`) to version per intake
 
